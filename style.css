@@ -1,0 +1,23 @@
+html, body {
+  background-color: rgb(37, 223, 130);
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    margin: auto;
+  }
+  section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(44, 44, 44, 0.493);
+  }
+  div {
+    text-align: center;
+    padding: 8;
+    font-family: Arial;
+  }
